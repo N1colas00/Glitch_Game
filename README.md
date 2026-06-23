@@ -1,27 +1,52 @@
-# Glitch_Game
+# 🕹️ GLITCH (V2)
 
-Título: GLITCH
-Gênero: Aventura / RPG / Suspense
-Estilo Visual: Pixel art 2D (Top-down), inspirado na estética clássica de RPGs
-Plataforma: PC/Desktop
-Pilar Principal: Exploração de um mundo digital corrompido, onde falhas de programação (glitches) tornam-se parte da narrativa e da jogabilidade.
+![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-orange)
+![Plataforma](https://img.shields.io/badge/Plataforma-PC%20%2F%20Desktop-blue)
+![Engine](https://img.shields.io/badge/Engine-Unity%202D-lightgrey)
 
-2. História e Tema
-2.1 O Início
-A jornada começa no mundo real, em um ambiente carregado de nostalgia. O protagonista, um jovem garoto, está explorando o depósito de seu falecido avô quando encontra uma caixa velha. Dentro dela, há um CD sem identificação clara.
-2.2 O Incidente do CD
-Ao tentar rodar o disco em seu console, o jogo falha. Em um ato típico de improviso, o garoto lava o CD. Ao reinseri-lo, o jogo "funciona", mas não da maneira esperada. O menu principal apresenta artefatos visuais e um botão corrompido (bugado) no canto da tela. Curioso, o garoto interage com esse erro e acaba sendo sugado para dentro do mundo virtual.
-2.3 O Mundo Glitch
-O jogo dentro do CD parece um RPG de colecionar monstros ou exploração de cidades, mas tudo está quebrado. O tema central é a dualidade entre a ordem do código original e o caos das falhas. O jogador deve descobrir os segredos do avô e entender por que aquele disco estava escondido.
+[cite_start]**GLITCH** é um jogo de aventura e RPG com elementos de suspense, focado na exploração de um mundo digital corrompido[cite: 4, 6]. [cite_start]O pilar principal da jogabilidade envolve interagir com falhas de programação (glitches) que se tornam parte ativa da narrativa e dos quebra-cabeças[cite: 6].
 
-3. Mecânicas Principais (Proposta)
+---
 
-MECÂNICA
-DESCRIÇÃO
-Movimentação Top-Down
-Navegação em quatro direções, similar aos jogos clássicos 2D
-Interação com Bugs
-O jogador pode usar erros no cenário (paredes invisíveis que faltam, tiles trocados) para acessar áreas secretas.
-Diálogos Corrompidos
-NPCs podem falar frases sem sentido ou códigos que revelam pistas sobre a saída.
+## 📖 História e Tema
 
+[cite_start]A jornada começa no mundo real, em um ambiente nostálgico[cite: 9]. [cite_start]O protagonista, um jovem garoto, explora o depósito de seu falecido avô e encontra um CD velho e sem identificação[cite: 10, 11]. 
+
+[cite_start]Ao tentar rodá-lo em seu console, o jogo falha[cite: 13]. [cite_start]Após lavar o disco em um ato de improviso, o jogo liga, mas o menu principal exibe artefatos visuais e um botão corrompido[cite: 14, 15, 16]. [cite_start]Ao interagir com esse erro, o garoto é sugado para dentro de um universo virtual completamente quebrado, onde a ordem do código original e o caos das falhas duelam[cite: 17, 19, 20].
+
+[cite_start]Seu objetivo é descobrir os segredos do seu avô e entender por que aquele disco estava escondido[cite: 21].
+
+---
+
+## 🎮 Mecânicas Principais
+
+| Mecânica | Descrição |
+| :--- | :--- |
+| **Movimentação Top-Down** | [cite_start]Navegação clássica em 4 direções em perspectiva 2D[cite: 5, 23]. |
+| **Interação com Bugs** | [cite_start]Uso de falhas no cenário (paredes invisíveis ausentes, tiles trocados) para acessar áreas secretas[cite: 23]. |
+| **Diálogos Corrompidos** | [cite_start]NPCs que falam códigos ou frases sem sentido, revelando pistas ocultas[cite: 23]. |
+
+---
+
+## ⏳ Estados do Jogo
+
+[cite_start]O jogo é estruturado em três momentos principais[cite: 24]:
+* [cite_start]**Mundo Real:** Um prólogo curto focado na ambientação e na descoberta do CD[cite: 12, 25].
+* [cite_start]**Mundo Digital:** O núcleo da gameplay, focado em sobrevivência, exploração e resolução de bugs[cite: 26].
+* [cite_start]**Menu de Pausa:** Uma interface imersiva que simula um sistema operacional antigo travando[cite: 27].
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Engine:** Unity (Universal Render Pipeline - URP)
+* **Linguagem:** C#
+* [cite_start]**Estilo Visual:** Pixel art 2D (Top-down) [cite: 5]
+
+---
+
+## 🚀 Como Executar o Projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/seu-usuario/glitch.git](https://github.com/seu-usuario/glitch.git)
