@@ -22,7 +22,6 @@ Seu objetivo é descobrir os segredos do seu avô e entender por que aquele disc
 | :--- | :--- |
 | **Movimentação Top-Down** | Navegação clássica em 4 direções em perspectiva 2D. |
 | **Interação com Bugs** | Uso de falhas no cenário (paredes invisíveis ausentes, tiles trocados) para acessar áreas secretas. |
-| **Diálogos Corrompidos** | NPCs que falam códigos ou frases sem sentido, revelando pistas ocultas. |
 
 ---
 
