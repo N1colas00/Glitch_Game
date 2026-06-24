@@ -1,4 +1,6 @@
-# 🕹️ GLITCH
+# 🕹️ GLITCH 
+
+**Nícolas de Sousa Almeida Santos**
 
 **GLITCH** é um jogo de aventura e RPG com elementos de suspense, focado na exploração de um mundo digital corrompido. O pilar principal da jogabilidade envolve interagir com falhas de programação (glitches) que se tornam parte ativa da narrativa e dos quebra-cabeças.
 
