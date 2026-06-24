@@ -41,8 +41,3 @@ O jogo é estruturado em três momentos principais:
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-1. Clone este repositório:
-```bash
-   git clone [https://github.com/seu-usuario/glitch.git](https://github.com/seu-usuario/glitch.git)
